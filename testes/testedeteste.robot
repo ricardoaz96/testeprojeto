@@ -1,3 +1,3 @@
 *** Test Cases ***
 teste1
-    Log    "Olá Mundo"
+    Log2    "Olá Mundo"

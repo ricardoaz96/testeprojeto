@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generated="20171228 17:51:52.142" generator="Robot 3.0.2 (Python 2.7.12 on win32)">
+<suite source="C:\Users\Altran\Desktop\ProjetoDeTeste\testedeteste.robot" id="s1" name="Testedeteste">
+<test id="s1-t1" name="teste1">
+<kw name="Log" library="BuiltIn">
+<doc>Logs the given message with the given level.</doc>
+<arguments>
+<arg>"Olá Mundo"</arg>
+</arguments>
+<msg timestamp="20171228 17:51:52.165" level="INFO">"Olá Mundo"</msg>
+<status status="PASS" endtime="20171228 17:51:52.165" starttime="20171228 17:51:52.165"></status>
+</kw>
+<status status="PASS" endtime="20171228 17:51:52.165" critical="yes" starttime="20171228 17:51:52.164"></status>
+</test>
+<status status="PASS" endtime="20171228 17:51:52.166" starttime="20171228 17:51:52.144"></status>
+</suite>
+<statistics>
+<total>
+<stat fail="0" pass="1">Critical Tests</stat>
+<stat fail="0" pass="1">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat fail="0" id="s1" name="Testedeteste" pass="1">Testedeteste</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>

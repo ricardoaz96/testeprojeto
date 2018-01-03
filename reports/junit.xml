@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite failures="0" tests="2" errors="0" name="Testedeteste" skip="0">
-<testcase classname="Testedeteste" name="teste1" time="0">
-</testcase>
-<testcase classname="Testedeteste" name="teste2" time="0">
-</testcase>
-</testsuite>

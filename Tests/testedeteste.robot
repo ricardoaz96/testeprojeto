@@ -1,6 +1,6 @@
 *** Test Cases ***
 teste1
-    Log     "Olá Mundo"
+    Log1     "Olá Mundo"
 
 teste2
-    Log     "Olá2 Mundo2"
+    Log2     "Olá2 Mundo2"

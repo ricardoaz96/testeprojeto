@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generated="20180102 03:32:11.583" generator="Robot 3.0.2 (Python 2.7.12 on win32)">
+<suite source="C:\Users\Altran\Desktop\testeprojeto-master\testes\testedeteste.robot" id="s1" name="Testedeteste">
+<test id="s1-t1" name="teste1">
+<kw name="Log" library="BuiltIn">
+<doc>Logs the given message with the given level.</doc>
+<arguments>
+<arg>"Olá Mundo"</arg>
+</arguments>
+<msg timestamp="20180102 03:32:11.613" level="INFO">"Olá Mundo"</msg>
+<status status="PASS" endtime="20180102 03:32:11.613" starttime="20180102 03:32:11.613"></status>
+</kw>
+<status status="PASS" endtime="20180102 03:32:11.614" critical="yes" starttime="20180102 03:32:11.612"></status>
+</test>
+<test id="s1-t2" name="teste2">
+<kw name="Log" library="BuiltIn">
+<doc>Logs the given message with the given level.</doc>
+<arguments>
+<arg>"Olá2 Mundo2"</arg>
+</arguments>
+<msg timestamp="20180102 03:32:11.617" level="INFO">"Olá2 Mundo2"</msg>
+<status status="PASS" endtime="20180102 03:32:11.617" starttime="20180102 03:32:11.617"></status>
+</kw>
+<status status="PASS" endtime="20180102 03:32:11.618" critical="yes" starttime="20180102 03:32:11.616"></status>
+</test>
+<status status="PASS" endtime="20180102 03:32:11.619" starttime="20180102 03:32:11.585"></status>
+</suite>
+<statistics>
+<total>
+<stat fail="0" pass="2">Critical Tests</stat>
+<stat fail="0" pass="2">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat fail="0" id="s1" name="Testedeteste" pass="2">Testedeteste</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>

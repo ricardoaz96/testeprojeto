@@ -1,4 +1,4 @@
-File = open("junit.xml","r")
+File = open("Reports\junit.xml","r")
 textodoficheiro = File.read()
 print(textodoficheiro)
 posicaodeclassname= textodoficheiro.find('classname') 

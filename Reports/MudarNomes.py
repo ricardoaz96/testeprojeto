@@ -16,5 +16,5 @@ print(textodoficheiro[posicaodaultimaaspa:])
 
 textofinal=textodoficheiro[:posicaodeclassname+11] + "TROLOLOL" + textodoficheiro[posicaodaultimaaspa:]
 
-with open('junit.xml', 'w') as f:
+with open('Reports\junit.xml', 'w') as f:
     f.write(textofinal)
